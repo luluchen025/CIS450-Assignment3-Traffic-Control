@@ -32,7 +32,7 @@ p3/
 │
 ├── tc.c # Main source code (final implementation with flow + HOL)
 ├── common.h # Provided helper functions (GetTime, Spin)
-├── common_threads.h # Provided pthread wrappers (with error checking)
+└── common_threads.h # Provided pthread wrappers (with error checking)
 
 ## How to Compile
 
