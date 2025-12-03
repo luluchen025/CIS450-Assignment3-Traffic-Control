@@ -28,12 +28,13 @@ The implementation ensures:
 ---
 
 ## Folder Structure
+```bash
 p3/
 │
 ├── tc.c # Main source code (final implementation with flow + HOL)
 ├── common.h # Provided helper functions (GetTime, Spin)
 └── common_threads.h # Provided pthread wrappers (with error checking)
-
+```
 ## How to Compile
 
 In Ubuntu terminal:
@@ -41,4 +42,4 @@ In Ubuntu terminal:
 ```bash
 gcc tc.c -o tc -pthread
 ./tc
-
+```
