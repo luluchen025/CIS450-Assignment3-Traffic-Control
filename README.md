@@ -1,6 +1,4 @@
-# CIS450-Assignment3-Traffic-Control
-
-## Project 3 – Traffic Control System using pthreads & Semaphores
+# Project 3 – Traffic Control System using pthreads & Semaphores
 
 **Course:** CIS 450  
 **Student:** Lulu Chen  
